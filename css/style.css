@@ -1,0 +1,113 @@
+body 
+{
+    background-image: url("https://cdn.hipwallpaper.com/i/11/15/4vZRbC.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color:black; 
+}
+
+h2{
+    color:black; 
+}
+
+.perfil 
+{
+    border-radius: 50%;
+    border: 3px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+img
+{
+    border-radius: 50%;
+    border: 3px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.container 
+{
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px;
+    border-style: solid;
+    border-color: #fff;
+}
+
+.contatos .title 
+{
+    font-style: italic;
+    color:black;
+}
+
+.contatos ul li 
+{
+    list-style: none;
+    font-size: larger;
+    color:black; 
+}
+
+.perfilprof .title 
+{
+    font-style: italic;
+    color:black; 
+}
+
+.perfilprof ul li 
+{
+    border: 1px solid rgb(49, 49, 161);
+    border-radius: 5px;
+    background-color: white;
+    list-style: none;
+    font-size: larger
+}
+
+.formacaoacad .title 
+{
+    font-style: italic;
+    color:black;
+}
+
+.formacaoacad ul li 
+{
+    border: 1px solid rgb(49, 49, 161);
+    border-radius: 5px;
+    background-color: white;
+    list-style: none;
+    font-size: larger
+}
+
+.historicoprof .title 
+{
+    font-style: italic;
+    color: black;
+}
+
+.historicoprof ul li 
+{
+    border: 1px solid rgb(49, 49, 161);
+    border-radius: 5px;
+    background-color: white;
+    list-style: none;
+    font-size: larger
+}
+
+.cursos .title 
+{
+    font-style: italic;
+    color: white;
+}
+
+.cursos ul li 
+{
+    border: 1px solid rgb(49, 49, 161);
+    border-radius: 5px;
+    background-color: white;
+    list-style: none;
+    font-size: larger
+}
